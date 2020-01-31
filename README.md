@@ -1,2 +1,2 @@
 # Hangman
-## Basic implementation in Java
+Basic implementation in Java
