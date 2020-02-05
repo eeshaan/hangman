@@ -1,6 +1,6 @@
 
 /**
- * Main.java created created by eeshaan on Dell Inspiron 7352 in hangman working directory
+ * Hangman.java created created by eeshaan on Dell Inspiron 7352 in hangman working directory
  * 
  * Description: 
  * 
@@ -29,12 +29,12 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * Main - The main class to define the hangman game.
+ * Hangman - The main class to define the hangman game.
  * 
  * @author Eeshaan ([first_name]@cs.wisc.edu)
  *
  */
-public class Main {
+public class Hangman {
 
 	/**
 	 * BodyPart - Nested class to provide information about body parts and their

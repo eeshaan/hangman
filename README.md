@@ -9,6 +9,6 @@ $ cd hangman
 Place your desired word list in the `./wordlists/` subdirectory. `list1.txt` is provided by default.
 
 ``` sh
-$ javac Main.java
-$ java Main
+$ javac Hangman.java
+$ java Hangman
 ```
