@@ -116,7 +116,7 @@ public class Main {
 				System.out.print("\nPlease enter the file name of your desired word list: ");
 				inputFileName = sc.next().trim();
 
-				inputFile = new File("/wordlists/" + inputFileName);
+				inputFile = new File("./wordlists/" + inputFileName);
 				fileScan = new Scanner(inputFile);
 				break; // break the loop if the file was found
 			} catch (FileNotFoundException e) {
