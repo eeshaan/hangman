@@ -25,7 +25,6 @@ conscious
 control
 day
 department
-deppeler
 design
 desktop
 developer
